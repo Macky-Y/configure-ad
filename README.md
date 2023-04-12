@@ -596,40 +596,73 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/hMhFbLe.png" height="80%" width="80%">
 </p>
 
+- Now let's create users using this <a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1">script</a>.
+- Go to DC-1 and open <ins>Windows PowerShell ISE</ins> as an Administrator and follow these steps to create our users.
+
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/G2LxAbf.png" height="80%" width="80%">
+</p>
+
+- Copy the Script.
+
+<p>
+<img src="https://i.imgur.com/9xr0xMY.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/uSgJPe2.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/A8DR4hO.png" height="80%" width="80%">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/6ibhgJB.png" height="80%" width="80%">
 </p>
+
+- You can see our Users are being created. Note: The password for all users is <ins>Password1</ins>. The password is written in line 2 of the code.
+
+<p>
+<img src="https://i.imgur.com/mSRCxam.png" height="80%" width="80%">
+</p>
+
+- To view all the users created, follow these steps.
+
+<p>
+<img src="https://i.imgur.com/RGB17Rj.png" height="80%" width="80%">
+</p>
+
+- Now you can see all the users created.
+
+<p>
+<img src="https://i.imgur.com/MqtbYqK.png" height="80%" width="80%">
+</p>
+
+- Once it's done creating users, we can try to log in to any of the accounts created. Double click any name you want to try to login.
+
+<p>
+<img src="https://i.imgur.com/0ei6qAl.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/Xn5FjSl.png" height="80%" width="80%">
+</p>
+
+- Now go to Client-1 and sign out your account, we will login to the account we chose.
+
+<p>
+<img src="https://i.imgur.com/8BMCIt9.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/04STPsX.png" height="80%" width="80%">
+</p>
+
+- We have successfully logged in to the account.
+
+<p>
+<img src="https://i.imgur.com/0ap1LCR.png" height="80%" width="80%">
+</p>
+
+<h4>This is the end of the tutorial, I hope you learned something new 😁.</h4>
