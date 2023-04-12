@@ -32,11 +32,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 
 <p>
-<img src="https://i.imgur.com/GH6mfQQ.png" height="80%" width="80%">
+<img src="https://i.imgur.com/3VBzNP8.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="https://i.imgur.com/nSV6ERH.png" height="80%" width="80%">
+<img src="https://i.imgur.com/H3mWQTV.png" height="80%" width="80%">
 </p>
 
 <p>
@@ -56,54 +56,63 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/nx9Q0tJ.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/Np6rNXq.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/wFfGn8n.png" height="80%" width="80%">
+</p>
+
+- Wait for the VM to get deployed. After receiving a notification saying it is deployed, follow these steps.
+
+<p>
+<img src="https://i.imgur.com/9mEfCQC.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/aRk3SRF.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/hDPKhtr.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/WplKSxb.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/wO5VHW8.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/bo5c20M.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/SUU3xsY.png" height="80%" width="80%">
+</p>
+
+- Now we need to set the IP Address to static, we are changing it to static so that the IP Address remains the same and it will not change.
+
+<p>
+<img src="https://i.imgur.com/I0T8Ydu.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+3. Let's create our 2nd VM. Follow these steps.
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/QfWCQBJ.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/C1nn6IX.png" height="80%" width="80%">
 </p>
 
 <p>
