@@ -338,6 +338,145 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 
 <p>
+<img src="https://i.imgur.com/423TAhg.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/y0e5AzM.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/j022g8X.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/hWZMdEL.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/UOjNqdL.png" height="80%" width="80%">
+</p>
+
+- Wait for this to finish. It will ask you to restart the VM once it successfully installed.
+
+<p>
+<img src="https://i.imgur.com/LlzXVLz.png" height="80%" width="80%">
+</p>
+
+- Click Close.
+
+<p>
+<img src="https://i.imgur.com/c8L5FZD.png" height="80%" width="80%">
+</p>
+
+- Click Close.
+
+<p>
+<img src="https://i.imgur.com/Od3YVqk.png" height="80%" width="80%">
+</p>
+
+- The VM will now restart and give it at least 1-2 minutes before reconnecting to DC-1.
+- Login again to DC-1 but this time, using your domain.
+
+<p>
+<img src="https://i.imgur.com/pDmdRdK.png" height="80%" width="80%">
+</p>
+
+- Once logged in to DC-1. Follow these steps to create <ins>Organizational Units</ins>
+
+<p>
+<img src="https://i.imgur.com/6TnaAfL.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/C82i4jt.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/OwPDoLl.png" height="80%" width="80%">
+</p>
+
+- Create an Organizational Unit and name it _ADMINS by following the previous steps.
+- Once you createad _ADMINS, follow these steps to create an admin user.
+
+<p>
+<img src="https://i.imgur.com/Kq9x5N1.png" height="80%" width="80%">
+</p>
+
+- Create an imaginary user and click <ins>Next</ins> once done.
+
+<p>
+<img src="https://i.imgur.com/i3phw4j.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/oN8s67R.png" height="80%" width="80%">
+</p>
+
+- Click <ins>Finish</ins>
+
+<p>
+<img src="https://i.imgur.com/mk7aZoQ.png" height="80%" width="80%">
+</p>
+
+- Now let's make Jane Doe an Admin. Follow these steps.
+
+<p>
+<img src="https://i.imgur.com/ZpkI1ZP.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/B7pXrd0.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/Qz06Mmv.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/vpM8era.png" height="80%" width="80%">
+</p>
+
+- Sign out in DC-1.
+
+<p>
+<img src="https://i.imgur.com/2TUKOLc.png" height="80%" width="80%">
+</p>
+
+- Connect again to DC-1 but this time sign in using your domain. Follow these steps.
+
+<p>
+<img src="https://i.imgur.com/qkSqY5b.png" height="80%" width="80%">
+</p>
+
+- Open command prompt and do this to double check your VM information. As you can see we are already logged in as Jane Doe using our domain in DC-1.
+
+<p>
+<img src="https://i.imgur.com/Skji1Sc.png" height="80%" width="80%">
+</p>
+
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
 <img src="" height="80%" width="80%">
 </p>
 
