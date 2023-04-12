@@ -17,35 +17,210 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1. Login to Microsoft Azure.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. We need to create our <ins>Resource Groups</ins> and our <ins>Virtual Machines</ins>. We need to create 2 VMs, one for Domain Controller and one for the Client. Follow these steps.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a22W79v.png" height="80%" width="80%" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/GH6mfQQ.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/nSV6ERH.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/aCHISDF.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/BNS0O4r.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/JtMWEv6.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/94mdwrq.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="" height="80%" width="80%">
 </p>
-<br />
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
+<p>
+<img src="" height="80%" width="80%">
+</p>
