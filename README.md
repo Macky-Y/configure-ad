@@ -330,11 +330,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/sG3b2S5.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/4aF2fGS.png" height="80%" width="80%">
 </p>
 
 <p>
