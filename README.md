@@ -201,12 +201,78 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/X9aB03b.png" height="80%" width="80%">
 </p>
 
-- Open <ins>Command Prompt</ins> and we will ping DC-1. Go to Azure portal and copy the Private IP Address of DC-1.
+- Go to Azure portal and copy the Private IP Address of DC-1.
 
 <p>
 <img src="https://i.imgur.com/70bJ3b3.png" height="80%" width="80%">
 </p>
 
+- Open <ins>Command Prompt</ins> and we will ping DC-1. It should say <ins>request time out</ins>. We will configure DC-1 and allow ICMP traffic.
+
+<p>
+<img src="https://i.imgur.com/D8dri9w.png" height="80%" width="80%">
+</p>
+
+- Connect to DC-1 using the public IP Address.
+
+<p>
+<img src="https://i.imgur.com/Yz69AEJ.png" height="80%" width="80%">
+</p>
+
+- Add a new PC to Microsoft Remote Desktop and connect to DC-1.
+
+<p>
+<img src="https://i.imgur.com/0EtZVxN.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/R04PPsr.png" height="80%" width="80%">
+</p>
+
+- Enter the username and password you created for DC-1 VM.
+
+<p>
+<img src="https://i.imgur.com/S9YVAJN.png" height="80%" width="80%">
+</p>
+
+- Click <ins>Continue</ins>
+
+<p>
+<img src="https://i.imgur.com/9V47Zwc.png" height="80%" width="80%">
+</p>
+
+- We should be seeing this screen after we login to DC-1.
+
+<p>
+<img src="https://i.imgur.com/RcKkGCq.png" height="80%" width="80%">
+</p>
+
+- To allow ICMP traffic, click <ins>Start</ins> and type <ins>wf.msc</ins>.
+
+<p>
+<img src="https://i.imgur.com/EwxtJQW.png" height="80%" width="80%">
+</p>
+
+- Open it and enable this 2 items by right clicking on the item and choosing <ins>Enable Rule</ins>.
+
+<p>
+<img src="https://i.imgur.com/w5o7oQx.png" height="80%" width="80%">
+</p>
+
+- Once we enabled those 2 items, it should look like this.
+
+<p>
+<img src="https://i.imgur.com/P0pk0WP.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
@@ -222,48 +288,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <img src="" height="80%" width="80%">
 </p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
