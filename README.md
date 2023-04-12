@@ -136,21 +136,33 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <img src="https://i.imgur.com/EIZrZ9k.png" height="80%" width="80%">
 </p>
+
+- Now let's wait for the deployment to finish.
+
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/s02pbGe.png" height="80%" width="80%">
 </p>
+
+- Once it says completed, follow these steps to check the network topology and make sure that the 2 VMs is in the same Virtual Network.
+
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/dtFyZGO.png" height="80%" width="80%">
 </p>
+
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/uKQvyZQ.png" height="80%" width="80%">
 </p>
+
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/zUiwzpD.png" height="80%" width="80%">
 </p>
+
+- Now let's connect to our VM. If you're using macOS, download Microsoft Remote Desktop in the app store, if you are in Windows, use Remote Desktop.
+
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/k9wlVaL.png" height="80%" width="80%">
 </p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
