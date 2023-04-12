@@ -116,23 +116,25 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/I8VpS6k.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/YbffiFV.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/ZtSCVFd.png" height="80%" width="80%">
+</p>
+
+- Scroll to the top page and click <ins>Networking</ins>.
+
+<p>
+<img src="https://i.imgur.com/4p4ek3c.png" height="80%" width="80%">
 </p>
 
 <p>
-<img src="" height="80%" width="80%">
-</p>
-
-<p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/EIZrZ9k.png" height="80%" width="80%">
 </p>
 <p>
 <img src="" height="80%" width="80%">
