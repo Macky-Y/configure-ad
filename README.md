@@ -265,6 +265,94 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/P0pk0WP.png" height="80%" width="80%">
 </p>
 
+- Once we enabled ICMPv4 in DC-1, we should have a reply back to our ping in Client-1 VM.
+
+<p>
+<img src="https://i.imgur.com/WqAdxFB.png" height="80%" width="80%">
+</p>
+
+- Go back to DC-1 and we will install Active Directory Domain Services. Follow these steps to install Active Directory Domain Services.
+
+<p>
+<img src="https://i.imgur.com/M4oGmiC.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/h3UGYbb.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/nW3W6TF.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/fCbciCZ.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/nblbkH5.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/6JLPBTI.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/uxHZobD.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/EgPsXTh.png" height="80%" width="80%">
+</p>
+
+- Wait for this to finish.
+
+<p>
+<img src="https://i.imgur.com/MgL9k86.png" height="80%" width="80%">
+</p>
+
+- Once it finished installing click close.
+
+<p>
+<img src="https://i.imgur.com/CeBiYsr.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/CeBiYsr.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/A37SG3Q.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/X3O4UTM.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
+<p>
+<img src="" height="80%" width="80%">
+</p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
