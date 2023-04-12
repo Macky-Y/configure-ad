@@ -163,42 +163,62 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/k9wlVaL.png" height="80%" width="80%">
 </p>
 
+- Let's connect to Client-1. Follow these steps.
+
+<p>
+<img src="https://i.imgur.com/lDTMo9Q.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/0HnJymp.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/CvGtyQs.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/tsv6oT5.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/GhEP1Pc.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/So1oViW.png" height="80%" width="80%">
+</p>
+
+- Let's wait for the VM to login.
+
+<p>
+<img src="https://i.imgur.com/QjTKNaf.png" height="80%" width="80%">
+</p>
+
+- Select <ins>No</ins> to everything.
+
+<p>
+<img src="https://i.imgur.com/X9aB03b.png" height="80%" width="80%">
+</p>
+
+- Open <ins>Command Prompt</ins> and we will ping DC-1. Go to Azure portal and copy the Private IP Address of DC-1.
+
+<p>
+<img src="https://i.imgur.com/70bJ3b3.png" height="80%" width="80%">
+</p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
-<p>
-<img src="" height="80%" width="80%">
-</p>
+
 <p>
 <img src="" height="80%" width="80%">
 </p>
