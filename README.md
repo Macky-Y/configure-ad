@@ -455,9 +455,145 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/Skji1Sc.png" height="80%" width="80%">
 </p>
 
+- Now let's join Client-1 to our Domain.
+- Go to your Microsoft Azure Portal and follow these steps.
 
 <p>
-<img src="" height="80%" width="80%">
+<img src="https://i.imgur.com/vPpetO7.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/4PmM66q.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/4W8YSYM.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/IuERpiS.png" height="80%" width="80%">
+</p>
+
+- Once it says it is done saving, follow these steps.
+
+<p>
+<img src="https://i.imgur.com/SpDCqtW.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/wjq07Xu.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/KbuU7hi.png" height="80%" width="80%">
+</p>
+
+- Select Yes. Once it is done restarting, connect to Client-1 VM again, copy the public IP Address and connect.
+
+<p>
+<img src="https://i.imgur.com/rZZ5Usz.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/kIxIjj1.png" height="80%" width="80%">
+</p>
+
+- Now we will connect Client-1 to our domain, follow these steps.
+
+<p>
+<img src="https://i.imgur.com/Dq4bIoA.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/VAEYaSO.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/VlrU8ZP.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/E180gJv.png" height="80%" width="80%">
+</p>
+
+- You will be asked to login to an admin account of the domain, we will use Jane Doe since we made her an admin in DC-1.
+
+<p>
+<img src="https://i.imgur.com/WqGuNT0.png" height="80%" width="80%">
+</p>
+
+- Minimize the tabs and you will see this message. Click <ins>Ok</ins> and the VM will ask you to restart your computer. Follow the prompt and restart the VM.
+
+<p>
+<img src="https://i.imgur.com/YA7IMjp.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/OzdWo7j.png" height="80%" width="80%">
+</p>
+
+- Now go to DC-1 VM. Go to command prompt and type this to make sure you are in the right VM. In our case it says DC-1 so we are good to continue.
+
+<p>
+<img src="https://i.imgur.com/qZo64xG.png" height="80%" width="80%">
+</p>
+
+- Now let's move Client-1 from Computers to _CLIENTS. Follow these steps.
+
+<p>
+<img src="https://i.imgur.com/jrFVLaf.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/wXuoSt7.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/ayAFh0h.png" height="80%" width="80%">
+</p>
+
+- Click Computers, Drag Client-1 to _CLIENTS and it should give us this warning. Just click <ins>Yes</ins>
+
+<p>
+<img src="https://i.imgur.com/ocSRJNH.png" height="80%" width="80%">
+</p>
+
+- Now Client-1 should be inside in _CLIENTS.
+
+<p>
+<img src="https://i.imgur.com/7CIqMlQ.png" height="80%" width="80%">
+</p>
+
+- Now login to Client-1 using your admin account.
+
+<p>
+<img src="https://i.imgur.com/moFgNlJ.png" height="80%" width="80%">
+</p>
+
+- To allow Domain Users (non-admin accounts) to use this PC, follow these steps.
+
+<p>
+<img src="https://i.imgur.com/8AKJH0d.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/hieSgJE.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/n7woEOU.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/E6fyF0w.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/w7wxCwr.png" height="80%" width="80%">
+</p>
+
+<p>
+<img src="https://i.imgur.com/hMhFbLe.png" height="80%" width="80%">
 </p>
 
 <p>
@@ -472,57 +608,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="" height="80%" width="80%">
 </p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
 
-<p>
-<img src="" height="80%" width="80%">
-</p>
+
+
+
+
+
+
+
+
+
 
 <p>
 <img src="" height="80%" width="80%">
